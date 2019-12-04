@@ -50,7 +50,7 @@ export CLEAN_OUTDIR=false
 export INCLUDE_PROPRIETARY=true
 
 # Environment for the LineageOS branches name
-# See https://github.com/LineageOS/android_vendor_cm/branches for possible options
+# See https://gitlab.e.foundation/e/os/android/-/branches for possible options
 export BRANCH_NAME='v1-oreo'
 
 # Environment for the device list (separate by comma if more than one)
