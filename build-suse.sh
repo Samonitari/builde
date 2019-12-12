@@ -3,7 +3,7 @@
 ############################
 zypper -n update
 zypper -n install java-1_8_0-openjdk
-zypper -n install bc bison ccache curl flex glibc-devel-32bit git gnupg gperf ImageMagick ncurses-devel-32bit readline-devel-32bit libz1-32bit liblz4-1 ncurses-devel libSDL-devel libopenssl-devel wxGTK3-3_2-devel libxml2-2 libxml2-tools lzop pngcrush rsync schedtool squashfs xsltproc zip libz1 zlib-devel python git
+zypper -n install bc bison ccache clang curl flex glibc-devel-32bit git gnupg gperf ImageMagick ncurses-devel-32bit readline-devel-32bit libz1-32bit liblz4-1 ncurses-devel libSDL-devel libopenssl-devel wxGTK3-3_2-devel libxml2-2 libxml2-tools lzop pngcrush rsync schedtool squashfs xsltproc zip libz1 zlib-devel python git
 
 
 #install google repo
